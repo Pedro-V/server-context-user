@@ -13,6 +13,7 @@
 !*.go
 !go.sum
 !go.mod
+!curl_test.sh
 
 !README.md
 !LICENSE
